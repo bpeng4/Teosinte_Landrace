@@ -1,0 +1,74 @@
+Abbrv,Lines,Genotype,Source,Category
+L27,LR1,AMES-8235,Xu et al. 2020,Landrace
+L28,LR17,AMES-21969,NA,Landrace
+L29,LR25,NSL-202125,NA,Landrace
+L30,LR18,NSL30874,NA,Landrace
+L31,LR24,PI-167991,NA,Landrace
+L32,LR23,PI-168001,NA,Landrace
+L33,LR21,PI-170882,NA,Landrace
+L34,LR22,PI-183639,NA,Landrace
+L35,LR2,PI-620767,Xu et al. 2020,Landrace
+L36,LR3,PI-620773,Xu et al. 2020,Landrace
+L37,LR4,PI-620774,Xu et al. 2020,Landrace
+L38,LR5,PI-620785,Xu et al. 2020,Landrace
+L39,LR6,PI-620797,Xu et al. 2020,Landrace
+L40,LR7,PI-620819,Xu et al. 2020,Landrace
+L41,LR8,PI-620821,Xu et al. 2020,Landrace
+L42,LR9,PI-620834,Xu et al. 2020,Landrace
+L43,LR10,PI-620842,Xu et al. 2020,Landrace
+L44,LR11,PI-620846,Xu et al. 2020,Landrace
+L45,LR12,PI-620856,Xu et al. 2020,Landrace
+L46,LR13,PI-620859,Xu et al. 2020,Landrace
+L47,LR14,PI-620860,Xu et al. 2020,Landrace
+L48,LR15,PI-628503,Xu et al. 2020,Landrace
+L49,LR16,PI-628514,Xu et al. 2020,Landrace
+L50,LR19,PI-686064,NA,Landrace
+M1,MZ17,A619,Hapmap3,Modern maize
+M10,MZ4,Il14H,NAM Parents,Modern maize
+M13,MZ6,M37W,NAM Parents,Modern maize
+M14,MZ7,M162W,NAM Parents,Modern maize
+M15,MZ9,Mo18W,NAM Parents,Modern maize
+M16,MZ11,Ms71,NAM Parents,Modern maize
+M17,MZ23,MS153,Hapmap3,Modern maize
+M18,MZ15,Mt42,Hapmap3,Modern maize
+M19,MZ16,NC222,Hapmap3,Modern maize
+M2,MZ21,A635,Hapmap3,Modern maize
+M20,MZ12,NC230,Hapmap3,Modern maize
+M21,MZ8,NC358,NAM Parents,Modern maize
+M22,MZ3,Oh7B,NAM Parents,Modern maize
+M23,MZ2,Oh43,NAM Parents,Modern maize
+M24,MZ18,VA22,Hapmap3,Modern maize
+M25,MZ13,VA59,Hapmap3,Modern maize
+M26,MZ22,W182B,Hapmap3,Modern maize
+M3,MZ20,A680,Hapmap3,Modern maize
+M4,MZ1,B73,NAM Parents,Modern maize
+M5,MZ10,B97,NAM Parents,Modern maize
+M6,MZ25,B164,Hapmap3,Modern maize
+M7,MZ26,C49A,Hapmap3,Modern maize
+M8,MZ24,CML91,Hapmap3,Modern maize
+M9,MZ14,H95,Hapmap3,Modern maize
+T52,,Ames-21785,,Teosinte
+T53,,Ames-21786,,Teosinte
+T54,,Ames-21787,,Teosinte
+T55,,PI-566688,,Teosinte
+T56,,Ames-21789,,Teosinte
+T57,,Ames-21790,,Teosinte
+T58,,Ames-21793,,Teosinte
+T59,,Ames-21796,,Teosinte
+T60,,Ames-21797,,Teosinte
+T61,,Ames-21798,,Teosinte
+T62,,Ames-21799,,Teosinte
+T63,,Ames-21800,,Teosinte
+T64,,Ames-21801,,Teosinte
+T65,,Ames-21802,,Teosinte
+T66,,Ames-21803,,Teosinte
+T67,,Ames-21809,,Teosinte
+T68,,Ames-21826,,Teosinte
+T69,,Ames-21828,,Teosinte
+T70,,Ames-21829,,Teosinte
+T71,,Ames-21830,,Teosinte
+T72,,Ames-21851,,Teosinte
+T73,,Ames-21860,,Teosinte
+T74,,PI-566673,,Teosinte
+T75,,PI5666677,,Teosinte
+T76,,Teo-8759,,Teosinte

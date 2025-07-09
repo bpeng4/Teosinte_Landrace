@@ -23,6 +23,30 @@ L47,LR14,PI 620860,Xu et al. 2020,Landrace
 L48,LR15,PI 628503,Xu et al. 2020,Landrace
 L49,LR16,PI 628514,Xu et al. 2020,Landrace
 L50,LR19,PI 686064,NA,Landrace
+M1,MZ17,A619,Hapmap3,Modern maize
+M10,MZ4,Il14H,NAM Parents,Modern maize
+M13,MZ6,M37W,NAM Parents,Modern maize
+M14,MZ7,M162W,NAM Parents,Modern maize
+M15,MZ9,Mo18W,NAM Parents,Modern maize
+M16,MZ11,Ms71,NAM Parents,Modern maize
+M17,MZ23,MS153,Hapmap3,Modern maize
+M18,MZ15,Mt42,Hapmap3,Modern maize
+M19,MZ16,NC222,Hapmap3,Modern maize
+M2,MZ21,A635,Hapmap3,Modern maize
+M20,MZ12,NC230,Hapmap3,Modern maize
+M21,MZ8,NC358,NAM Parents,Modern maize
+M22,MZ3,Oh7B,NAM Parents,Modern maize
+M23,MZ2,Oh43,NAM Parents,Modern maize
+M24,MZ18,VA22,Hapmap3,Modern maize
+M25,MZ13,VA59,Hapmap3,Modern maize
+M26,MZ22,W182B,Hapmap3,Modern maize
+M3,MZ20,A680,Hapmap3,Modern maize
+M4,MZ1,B73,NAM Parents,Modern maize
+M5,MZ10,B97,NAM Parents,Modern maize
+M6,MZ25,B164,Hapmap3,Modern maize
+M7,MZ26,C49A,Hapmap3,Modern maize
+M8,MZ24,CML91,Hapmap3,Modern maize
+M9,MZ14,H95,Hapmap3,Modern maize
 T52,,Ames 21785,,Teosinte
 T53,,Ames 21786,,Teosinte
 T54,,Ames 21787,,Teosinte

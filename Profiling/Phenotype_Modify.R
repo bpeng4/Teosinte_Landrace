@@ -1,0 +1,22 @@
+library(dplyr)
+
+Lines <- read.csv(file = "/Users/bopeng/Documents/GitHub/Teosinte_Landrace/Cache/73Lines_Information.csv")
+
+PhenotypeS1 <- read.csv(file = "/Users/bopeng/Documents/GitHub/Teosinte_Landrace/Cache/Phenotype_S1.csv")
+PhenotypeS1 <- merge(PhenotypeS1, Lines, by="Abbrv")
+PhenotypeS1Ave <- PhenotypeS1 %>%
+  group_by(Genotype) %>%
+  summarise(across(where(is.numeric), \(x) mean(x, na.rm = TRUE)))
+
+write.csv(PhenotypeS1Ave, file = "/Users/bopeng/Documents/GitHub/Teosinte_Landrace/Cache/PhenotypeAve_S1.csv")
+
+
+PhenotypeS9 <- read.csv(file = "/Users/bopeng/Documents/GitHub/Teosinte_Landrace/Cache/Phenotype_S9.csv")
+PhenotypeS9 <- merge(PhenotypeS9, Lines, by="Abbrv")
+PhenotypeS9Ave <- PhenotypeS9 %>%
+  group_by(Genotype) %>%
+  summarise(across(where(is.numeric), \(x) mean(x, na.rm = TRUE)))
+
+write.csv(PhenotypeS9Ave, file = "/Users/bopeng/Documents/76Seeds_Peptides/Cache/PhenotypeAve_S9.csv")
+
+
